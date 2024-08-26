@@ -9,10 +9,10 @@ export default function Header() {
 
     return (
         <div>
-            <nav className="w-full bg-gray-900 px-6 py-4 text-white">
-                <div className="container mx-auto flex items-center justify-between">
+            <nav className="w-full bg-gray-900 px-6 py-10 text-white">
+                <div className="container mx-auto flex items-center text-white justify-between">
                     <div className="text-2xl font-bold">
-                        <a href="/" className="hover:text-gray-400">
+                        <a href="/" className="hover:text-purple-400 text-purple-600">
                             Felipe Mendoza
                         </a>
                     </div>
@@ -42,37 +42,37 @@ export default function Header() {
                     >
                         <ul className="flex space-x-6">
                             <li>
-                                <a href="#" className="hover:text-gray-400">
+                                <a href="#" className="hover:text-purple-400">
                                     Perfil
                                 </a>
                             </li>
                             <li>
-                                <a href="#" className="hover:text-gray-400">
+                                <a href="#" className="hover:text-purple-400">
                                     Metas
                                 </a>
                             </li>
                             <li>
-                                <a href="#" className="hover:text-gray-400">
+                                <a href="#" className="hover:text-purple-400">
                                     Identidad
                                 </a>
                             </li>
                             <li>
-                                <a href="#" className="hover:text-gray-400">
+                                <a href="#" className="hover:text-purple-400">
                                     Certificaciones
                                 </a>
                             </li>
                             <li>
-                                <a href="#" className="hover:text-gray-400">
+                                <a href="#" className="hover:text-purple-400">
                                     Servicios
                                 </a>
                             </li>
                             <li>
-                                <a href="#" className="hover:text-gray-400">
+                                <a href="#" className="hover:text-purple-400">
                                     Proyectos
                                 </a>
                             </li>
                             <li>
-                                <a href="#" className="hover:text-gray-400">
+                                <a href="#" className="hover:text-purple-400">
                                     Contacto
                                 </a>
                             </li>
