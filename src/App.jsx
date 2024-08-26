@@ -1,9 +1,10 @@
 import React from 'react'
+import Landing from './pages/Landing/Landing'
 
 export default function App() {
   return (
     <div>
-      <h1 className=' hover:text-blue-800'> hola</h1>
+      <Landing />
     </div>
   )
 }
