@@ -15,7 +15,7 @@ export default function HeroSection() {
                             </h3>
                             <div className="mt-10 flex justify-center">
                                 <a
-                                    href="#"
+                                    href="#about-me"
                                     className="sm:px-3  px-6 py-3 border-2 rounded-lg border-purple-600 text-purple-600 text-base sm:text-lg md:text-xl font-semibold hover:bg-purple-600 hover:text-white transition duration-300"
                                 >
                                     Sobre mí

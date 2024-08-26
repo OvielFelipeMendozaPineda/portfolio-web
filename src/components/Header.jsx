@@ -43,11 +43,6 @@ export default function Header() {
                         <ul className="flex space-x-6">
                             <li>
                                 <a href="#" className="hover:text-purple-400">
-                                    Sobre mi
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" className="hover:text-purple-400">
                                     Metas
                                 </a>
                             </li>
