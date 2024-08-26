@@ -8,7 +8,7 @@ export default function Header() {
     };
 
     return (
-        <div>
+        <>
             <nav className="w-full bg-gray-900 px-6 py-10 text-white">
                 <div className="container mx-auto flex items-center text-white justify-between">
                     <div className="text-2xl font-bold">
@@ -43,7 +43,7 @@ export default function Header() {
                         <ul className="flex space-x-6">
                             <li>
                                 <a href="#" className="hover:text-purple-400">
-                                    Perfil
+                                    Sobre mi
                                 </a>
                             </li>
                             <li>
@@ -120,6 +120,6 @@ export default function Header() {
                     </ul>
                 </div>
             </nav>
-        </div>
+        </>
     );
 }
