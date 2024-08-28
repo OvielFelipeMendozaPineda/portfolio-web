@@ -28,9 +28,9 @@ function Identidad() {
                     </svg>
                     <h2 className="text-2xl font-bold">Valores</h2>
                     <div className="flex flex-col gap-2">
-                        <p className="font-normal text-gray-700">Innovación</p>
-                        <p className="font-normal text-gray-700">Calidad</p>
-                        <p className="font-normal text-gray-700">Colaboración</p>
+                        <p className="font-normal text-gray-700">Mi <b>integridad</b> asegura honestidad y transparencia, mientras que mi <b>adaptabilidad</b> me permite superar desafíos con flexibilidad. Además, valoro la <b>colaboración</b> para entregar <b>soluciones</b> que realmente marquen la <b>diferencia</b>.
+                        </p>
+
                     </div>
                 </div>
             </div>
