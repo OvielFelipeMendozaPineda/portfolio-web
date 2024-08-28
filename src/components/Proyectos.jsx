@@ -19,7 +19,7 @@ function Proyectos() {
                     titulo={"Menú administrador"}
                     descripcion={"Menu dashboard administrador con inicio de sesión y registro de cuenta autenticado que permite gestionar productos, pedidos y clientes"}
                     imagen={"https://bs-uploads.toptal.io/blackfish-uploads/components/open_graph_image/8961388/og_image/optimized/0823-DashboardDesign-Dan-Social-e319a5a8a7ceb75b9e5010740700d409.png"}
-                    enlace={"https://bs-uploads.toptal.io/blackfish-uploads/components/open_graph_image/8961388/og_image/optimized/0823-DashboardDesign-Dan-Social-e319a5a8a7ceb75b9e5010740700d409.png"}
+                    enlace={"https://github.com/OvielFelipeMendozaPineda/eccomerce-front"}
                 />
             </div>
         </section>
