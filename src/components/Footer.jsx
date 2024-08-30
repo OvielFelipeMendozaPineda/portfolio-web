@@ -40,14 +40,14 @@ export default function Footer() {
                                 >
                                     <i className="bx bxl-github bx-md text-white hover:text-gray-500"></i>
                                 </a>
-                                <a
+                                {/* <a
                                     target="_blank"
                                     rel="noreferrer"
                                     href="https://www.instagram.com/felipe_mendozap"
                                     aria-label="Felipe Mendoza Twitter Profile"
                                 >
                                     <i className="bx bxl-instagram bx-md text-white hover:text-blue-400"></i>
-                                </a>
+                                </a> */}
                             </div>
 
                         </div>
