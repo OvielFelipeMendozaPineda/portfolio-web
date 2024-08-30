@@ -3,8 +3,8 @@ import Card from './ui/Card';
 
 function Proyectos() {
     return (
-        <section className='border-gray-100'>
-            <div className='w-full h-0.5 bg-gray-50 opacity-5 mb-10'></div>
+        <section>
+            <div className='w-full h-0.5 my-20'></div>
             <div>
                 <h2 className="text-4xl font-extrabold text-center text-white mb-12">Mis Proyectos</h2>
             </div>

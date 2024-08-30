@@ -3,6 +3,7 @@ import React from 'react'
 function Certificates() {
     return (
         <>
+            <div className='h-1 bg-white opacity-5'></div>
             <section className=" py-16 px-6">
                 <h2 className="text-4xl font-extrabold text-center text-white mb-12">Mi trayectoria</h2>
                 <div className="flex flex-wrap justify-center">
