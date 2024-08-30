@@ -15,8 +15,8 @@ export default function Landing() {
       <HeroSection />
       <AboutMe />
       <Identidad />
-      <Certificates />
       <Services />
+      <Certificates />
       <Proyectos />
       <Footer />
     </div>
