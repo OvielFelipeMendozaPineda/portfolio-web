@@ -41,33 +41,19 @@ export default function Header() {
                         id="menu-links"
                     >
                         <ul className="flex space-x-6">
+
                             <li>
-                                <a href="#" className="hover:text-purple-400">
-                                    Metas
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" className="hover:text-purple-400">
-                                    Identidad
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" className="hover:text-purple-400">
-                                    Certificaciones
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" className="hover:text-purple-400">
+                                <a href="#services" className="hover:text-purple-400">
                                     Servicios
                                 </a>
                             </li>
                             <li>
-                                <a href="#" className="hover:text-purple-400">
+                                <a href="#proyects" className="hover:text-purple-400">
                                     Proyectos
                                 </a>
                             </li>
                             <li>
-                                <a href="#" className="hover:text-purple-400">
+                                <a href="#contact" className="hover:text-purple-400">
                                     Contacto
                                 </a>
                             </li>

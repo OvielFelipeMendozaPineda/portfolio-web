@@ -3,7 +3,7 @@ import React from 'react'
 function Services() {
     return (
         <>
-            <section className=" py-16 px-6">
+            <section id='services' className=" py-16 px-6">
                 <h2 className="text-4xl font-extrabold text-center text-white mb-12">Mis Servicios</h2>
                 <div className="flex flex-wrap justify-center gap-12">
                     <div className="w-full max-w-lg bg-white rounded-lg shadow-lg border border-gray-200 transition-transform transform hover:scale-105 hover:shadow-xl hover:bg-purple-400">

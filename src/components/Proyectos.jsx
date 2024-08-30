@@ -3,7 +3,7 @@ import Card from './ui/Card';
 
 function Proyectos() {
     return (
-        <section>
+        <section id='proyects'>
             <div className='w-full h-0.5 my-20'></div>
             <div>
                 <h2 className="text-4xl font-extrabold text-center text-white mb-12">Mis Proyectos</h2>
